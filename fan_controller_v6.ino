@@ -1,8 +1,7 @@
 //
 // Automated Fan Controller with Manual Control
-// Copyright (c) 2026 King Art Dedullo Pacumberto
+// Copyright (c) 2026 Project contributors
 //
-// Author: King Art Dedullo Pacumberto
 // Description: Arduino-based temperature-controlled fan
 //              with automatic and manual control modes.
 // ============================================================
