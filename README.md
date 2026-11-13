@@ -53,4 +53,4 @@ This repository contains the firmware sketch, not a complete wiring diagram or a
 
 The source is a standalone Arduino sketch. The README describes the configured pins and control constants in the current code; it does not claim that the sketch has been compiled or tested on every Arduino board.
 
-Copyright © 2026 King Art Dedullo Pacumberto.
+Copyright © 2026 Project contributors.
